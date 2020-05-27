@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("data/transactions_1.csv")
+df = pd.read_csv("data/all_transactions.csv")
 for i in range(len(df.columns)):
     print("----------------------------")
     print(df.columns[i])
