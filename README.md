@@ -8,8 +8,7 @@ Exploratory Data Analysis, Outlier Detection, Feature Selection/Extraction/Engin
 
 ## User Modeling
 
-Grouping users based on their most descriptive characteristics e.g. frequency of transactions, age group, total amount spent,  
-currency type (Fiat | Cryptocurrency) etc
+Grouping users based on their most descriptive characteristics e.g. frequency of transactions, age group, total amount spent,currency type (Fiat | Cryptocurrency) etc
 
 ## Churn Detection (Unsupervised Learning Task)
 
