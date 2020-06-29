@@ -1,10 +1,20 @@
-# Project Future - ReGeneration - Data and Decision Sciences
+# Data Science Challenge 
 
-This is your team's private repository for the project.
+## Classification Task
 
-Under `data/` you will find the files you will need for this project.
+It was requested to build a model that correctly classify users based on their plan Standard | Paid.  
+Exploratory Data Analysis, Outlier Detection, Feature Selection/Extraction/Engineering,Imbalance handling, Hyperparameter Tuning.  
+### Models were evaluated based on the F1 score.
 
-Feel free to change modify the repository in any way you see fit!
+## User Modeling
 
-Good luck!
+Grouping users based on their most descriptive characteristics e.g. frequency of transactions, age group, total amount spent,  
+currency type (Fiat | Cryptocurrency) etc
 
+## Churn Detection (Unsupervised Learning Task)
+
+### Detect unengaged and churned users
+
+* Target metrics were defined to measure users engagement
+* Heuristic approach using threshold
+* Clustering approach utilizing K-Means algorithm
