@@ -2,7 +2,7 @@
 
 ## Classification Task
 
-It was requested to build a model that correctly classify users based on their plan Standard | Paid.  
+It was requested to build a model that correctly classifies users based on their plan Standard | Paid.  
 Exploratory Data Analysis, Outlier Detection, Feature Selection/Extraction/Engineering,Imbalance handling, Hyperparameter Tuning.  
 ### Models were evaluated based on the F1 score.
 
